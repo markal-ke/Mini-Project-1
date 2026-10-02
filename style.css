@@ -1,0 +1,81 @@
+body {
+background-color: rgb(0, 72, 134);
+margin: 6cm;
+background-image: url(Hydalin.png);
+background-repeat: no-repeat;
+background-size:cover
+}
+
+
+
+h1 {
+    text-align: center;
+    color: yellow;
+    font-family: Germania One, Static;
+    font-size: 85px;
+   
+}
+
+input{
+    position: absolute;
+    left: 45%;
+  
+}
+
+
+
+.card {
+    background-image: linear-gradient(to top,rgb(61, 63, 62), rgb(69, 69, 69));
+    color: rgb(219, 220, 219);
+    border-style: none none inset none;
+    border-width: 3px;
+    border-color: red rgb(48, 48, 48) rgb(77, 76, 70) rgb(49, 47, 48);
+    
+    
+}
+
+.card-name {
+    color: rgb(224, 216, 200);
+    font-weight: bold;
+    font-family:  Titillium Web, Static;
+}
+
+#Alpha {
+    width: 250px;
+    position: absolute;
+    top: 20px;
+    left: 44%;
+    z-index: -1;
+}
+
+#test {
+    background-color: rgb(48, 48, 48);
+    align-content: center;
+    border-style: solid;
+     padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 60px;
+    border-color: rgb(114, 95, 64);
+    border-radius: 15px;
+}
+
+.class-list {
+    justify-content: right;
+}
+
+h5 {
+    color: rgb(224, 216, 200);
+    font-weight: bold;
+    font-family:  Titillium Web, Static;
+}
+
+input {
+    background-color: rgb(85, 85, 85);
+    width: 250px;
+    border-radius: 10px;
+    border-style: none;
+    color: rgb(224, 216, 200);
+    
+}
+
